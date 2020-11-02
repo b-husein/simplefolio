@@ -1,0 +1,150 @@
+/* INITIAL SETUP */
+
+@media (max-width: 1000px) {
+  html {
+    font-size: 52%;
+  }
+}
+
+@media (max-width: 1340px) {
+  .row {
+    max-width: 1100px;
+  }
+}
+
+@media (max-width: 1240px) {
+  .row {
+    padding: 0 var(--gonna-be-medium);
+  }
+}
+
+@media (max-width: 600px) {
+  .row {
+    padding: 0 var(--gonna-be-normal);
+  }
+}
+
+/* HEADLINES AND PARAGRAPHS STYLES */
+
+@media (max-width: 900px) {
+  .heading_primary {
+    font-size: 6.5rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .heading_primary {
+    font-size: var(--font-size-large);
+  }
+}
+
+@media (max-width: 900px) {
+  p {
+    max-width: var(--container-small-width);
+  }
+}
+
+/* NAVBAR */
+
+@media (max-width: 500px) {
+  .nav {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 400px) {
+  .nav_item:not(:last-child) {
+    margin-right: var(--gonna-be-normal);
+  }
+}
+
+@media (max-width: 300px) {
+  .nav {
+    font-size: var(--font-size-small);
+  }
+}
+
+/* HEADER */
+
+@media (max-width: 500px) {
+  .header {
+    text-align: center;
+  }
+
+  .header_text p {
+    transform: scale(0.8);
+  }
+}
+
+/* LATEST PROJECTS */
+
+@media (max-width: 900px) {
+  .project_box {
+    align-items: initial;
+    flex-direction: column-reverse;
+  }
+}
+
+@media (max-width: 500px) {
+  .project_box:not(:last-child) {
+    margin-bottom: 20rem;
+  }
+}
+
+@media (min-width: 901px) {
+  .project_image {
+    flex: 1;
+    margin: 0 0 0 10rem;
+  }
+}
+
+/* ABOUT */
+
+@media (max-width: 900px) {
+  .about_content {
+    flex-direction: column-reverse;
+    align-items: initial;
+  }
+}
+
+@media (min-width: 901px) {
+  .about_text {
+    flex: 0 0 35%;
+  }
+}
+
+/* BUTTONS */
+
+@media (max-width: 500px) {
+  .btn_resume {
+    transform: translateX(30%);
+  }
+  .btn_together {
+    transform: translateX(20%);
+  }
+}
+
+/* FOOTER SECTION */
+
+@media (max-width: 500px) {
+  #footer {
+    padding: var(--gonna-be-medium) 0;
+  }
+  .social-media {
+    font-size: 40px;
+  }
+}
+
+/* BACK TO TOP */
+
+@media (max-width: 900px) {
+  .back-to-top {
+    right: 2rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .back-to-top {
+    right: 1rem;
+  }
+}
