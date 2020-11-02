@@ -2,7 +2,7 @@
 
 ### A minimal portfolio named 'simplefolio'. ✨.
 
-Live version is avaliable at [here &rarr;](#)
+Live version is avaliable at [here &rarr;](https://b-husein.github.io/simplefolio/)
 
 ![Portfolio Gif](/images/project-1.gif)
 
