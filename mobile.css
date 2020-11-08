@@ -115,14 +115,14 @@
 
 /* BUTTONS */
 
-@media (max-width: 500px) {
+/* @media (max-width: 500px) {
   .btn_resume {
     transform: translateX(30%);
   }
   .btn_together {
     transform: translateX(20%);
   }
-}
+} */
 
 /* FOOTER SECTION */
 

@@ -67,6 +67,10 @@ img {
   max-width: 100%;
 }
 
+.my_photo {
+  width: 60%;
+}
+
 /* HEADLINES AND PARAGRAPHS STYLES */
 
 h1,
