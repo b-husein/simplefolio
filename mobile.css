@@ -6,9 +6,33 @@
   }
 }
 
-@media (max-width: 1340px) {
+@media (max-width: 1800px) {
   .row {
     max-width: 1100px;
+  }
+  
+  ul.icons {
+    cursor: default;
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  ul.icons li {
+    display: inline-block;
+    padding: 0 1em 0 0;
+  }
+  
+  ul.icons li:last-child {
+    padding-right: 0;
+  }
+  
+  ul.icons li .icon:before {
+    font-size: 1.5em;
+  }
+
+  .skills {
+    height: 100px;
+    width: 100px;
   }
 }
 
@@ -21,6 +45,15 @@
 @media (max-width: 600px) {
   .row {
     padding: 0 var(--gonna-be-normal);
+  }
+
+  .skills {
+    height: 75px;
+    width: 75px;
+  }
+
+  .lar {
+    display: none;
   }
 }
 
