@@ -19,7 +19,7 @@
   
   ul.icons li {
     display: inline-block;
-    padding: 0 1em 0 0;
+    padding: 1em 0.5em;
   }
   
   ul.icons li:last-child {
@@ -48,12 +48,16 @@
   }
 
   .skills {
-    height: 75px;
-    width: 75px;
+    height: 65px;
+    width: 65px;
   }
 
   .lar {
     display: none;
+  }
+
+  ul.icons li {
+    padding: 0.5em 0.5em;
   }
 }
 
