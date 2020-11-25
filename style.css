@@ -7,8 +7,8 @@
 }
 
 :root {
-  /* font color */
-  --primary: #555;
+  /* font color primary 555*/
+  --primary: #EA7571; 
   --secondary: #6c757d;
   --black: #000;
 
