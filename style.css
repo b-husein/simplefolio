@@ -394,6 +394,11 @@ ul.icons li .icon:before {
   font-size: 1.5em;
 }
 
+.skills:hover {
+  transform: scale(1.2);
+  transition: all 0.3s;
+}
+
 /* CONTACT */
 
 .contact_info {
