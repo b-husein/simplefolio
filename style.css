@@ -346,6 +346,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .project_image {
   margin-bottom: var(--gonna-be-normal);
+  border: 1px solid #555;
 }
 
 /* ABOUT */
