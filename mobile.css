@@ -31,8 +31,8 @@
   }
 
   .skills {
-    height: 100px;
-    width: 100px;
+    height: 80px;
+    width: 80px;
   }
 }
 
@@ -56,8 +56,12 @@
     display: none;
   }
 
-  ul.icons li {
+  /* ul.icons li {
     padding: 0.5em 0.5em;
+  } */
+
+  ul.icons li {
+    display: none;
   }
 }
 

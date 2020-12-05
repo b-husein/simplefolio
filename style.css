@@ -349,6 +349,11 @@ body:not(.user-is-tabbing) a:focus {
   border: 1px solid #555;
 }
 
+.project_image:hover {
+  transform: scale(1.1);
+  transition: all 0.4s;
+}
+
 /* ABOUT */
 
 .about_content {
