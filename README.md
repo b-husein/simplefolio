@@ -1,6 +1,6 @@
 Live version is avaliable [here](https://b-husein.github.io/simplefolio/)
 
-![Portfolio Gif](/images/project-1.gif)
+![Portfolio Gif](/images/projects/project-1.PNG)
 
 ## Features
 
