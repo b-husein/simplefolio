@@ -1,4 +1,4 @@
-Live version is avaliable [here](https://b-husein.github.io/simplefolio/)
+Live version is avaliable [here;](https://b-husein.github.io/simplefolio/)
 
 ![Portfolio Gif](/images/projects/project-1.PNG)
 
