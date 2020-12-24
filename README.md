@@ -1,7 +1,5 @@
 Live version is avaliable [here;](https://b-husein.github.io/simplefolio/)
 
-![Portfolio Gif](/images/projects/project-1.PNG)
-
 ## Features
 
 - Clean, responsive, well organized and simple with Modern UI Design.
