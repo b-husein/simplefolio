@@ -2,7 +2,7 @@ Live version is avaliable [here;](https://b-husein.github.io/simplefolio/)
 
 ## Features
 
-- Clean, responsive, well organized and simple with Modern UI Design.
+- Clean, responsive, well organized with Modern UI Design.
 - Contains all essential information related to selected projects. ⚡
 - Contains contact information with social media links;
 - Coded with basic HTML5, CSS3 and JavaScript. 🔨
