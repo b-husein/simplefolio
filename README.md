@@ -1,6 +1,6 @@
 Live version is avaliable [here;](https://b-husein.github.io/simplefolio/)
 
-## Features
+## About
 
 - Clean, responsive, well organized with Modern UI Design.
 - Contains all essential information related to selected projects. ⚡
