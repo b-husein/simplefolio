@@ -424,13 +424,15 @@ ul.icons li .icon:before {
   padding: var(--gonna-be-medium) 0 var(--gonna-be-normal);
 }
 
-.social-media {
+.social-media,
+.fab {
   margin: 20px 10px;
   font-size: 50px;
   color: #6c757d;
 }
 
-.social-media:hover {
+.social-media:hover,
+.fab:hover {
   transform: scale(1.2);
   color: var(--primary);
   transition: all 0.3s;
